@@ -1,0 +1,19 @@
+.professional {
+  padding: 240px 0;
+}
+.title {
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.title h2 {
+  color: #211f54;
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 57.98px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}

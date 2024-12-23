@@ -1,0 +1,59 @@
+.hero {
+  margin-bottom: 240px;
+  display: flex;
+  align-items: center;
+  padding-left: 150px;
+}
+.hero-connect {
+  display: flex;
+  align-items: center;
+
+  gap: 28px;
+}
+.heroConnet {
+  display: flex;
+  align-items: center;
+}
+.heroConnetP {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 1.600000023841858px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #6e7191;
+}
+.heroConnetA {
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #211f54;
+}
+
+.hero-content h1 {
+  font-family: Roboto;
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 73.98px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #211f54;
+}
+.hero-content .pp {
+  color: #6e7191;
+  margin: 25px 0;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}

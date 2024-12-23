@@ -1,0 +1,32 @@
+.comparison {
+  text-align: center;
+  padding: 240px 0;
+  border-bottom: 1px solid #dcddeb;
+}
+
+.comparison h2 {
+  color: #211f54;
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 57.98px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.comparison p {
+  margin: 13px 0 32px;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #6e7191;
+}
+.sectionImg {
+  margin-top: 50px;
+  cursor: pointer;
+}

@@ -1,0 +1,32 @@
+.professionalCard {
+  text-align: center;
+  width: 388px;
+  height: 494px;
+  padding: 50px 38px 30px;
+  border: 1px solid #eff0f6;
+  box-shadow: 0px 2px 6px 0px #14142b0a;
+}
+
+.professionalCard img {
+  margin-bottom: 24px;
+}
+.professionalCard h4 {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 34.01px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #211f54;
+}
+.professionalCard p {
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #6e7191;
+}

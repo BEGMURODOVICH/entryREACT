@@ -1,0 +1,113 @@
+.foot-content {
+  padding: 125px 0;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.foot-content li {
+  width: 312px;
+  align-self: start;
+}
+.foot-content li:nth-child(4) h4 {
+  margin-bottom: 13px;
+}
+.foot-content li h4 {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #211f54;
+}
+.dayW {
+  margin-top: 25px;
+}
+.telmail {
+  color: #6e7191;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.phoneNumber {
+  padding: 48px 0;
+  color: #0075ff;
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 700;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.foot-content li p {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  color: #6e7191;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.foot-content li h3 {
+  color: #211f54;
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.square {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.square > div {
+  background: #edf5ff;
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+}
+.footerLast {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid #dcddeb;
+}
+.footnav {
+  padding: 35px 0;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.footnav p {
+  color: #6e7191;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: right;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.footnav a {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: right;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  text-decoration: underline;
+  color: #0075ff;
+}

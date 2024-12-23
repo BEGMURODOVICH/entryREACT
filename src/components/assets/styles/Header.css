@@ -1,0 +1,40 @@
+.header {
+  padding: 32px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.navbar li a {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #211f54;
+}
+.navbar li a:hover {
+  color: red;
+  transition: all ease 0.5s;
+}
+.navBtns {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.cartQuantity {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #211f54;
+}

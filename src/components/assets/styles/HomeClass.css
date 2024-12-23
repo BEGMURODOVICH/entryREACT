@@ -1,0 +1,105 @@
+.homeCalss {
+  margin: 200px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+}
+
+.homeClass-content h2 {
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 57.98px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #211f54;
+}
+.homeClass-content .lorem {
+  margin: 20px 0 25px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #6e7191;
+}
+.chek-service {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  row-gap: 35px;
+  column-gap: 0;
+  margin-bottom: 50px;
+}
+.chek-service li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.different {
+  padding-bottom: 200px;
+  border-bottom: 1px solid #dcddeb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 200px;
+}
+.different p {
+  margin: 20px 0 25px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #6e7191;
+}
+.result {
+  display: flex;
+  gap: 38px;
+  align-items: center;
+  /* margin-bottom: 47px; */
+}
+.result li {
+  display: flex;
+  align-items: center;
+
+  gap: 5px;
+}
+.result li h2 {
+  font-family: Roboto;
+  font-size: 54px;
+  font-weight: 700;
+  line-height: 65.99px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #211f54;
+}
+.li-content {
+  display: flex;
+  flex-direction: column;
+}
+.liPclass {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 23.99px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #6e7191;
+}
+.time {
+  margin-bottom: 15px;
+  margin-top: -30px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}

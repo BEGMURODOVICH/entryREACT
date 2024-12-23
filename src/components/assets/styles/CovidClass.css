@@ -1,0 +1,71 @@
+.covid {
+  width: 1220px;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  padding-right: 70px;
+  background-color: #1a0840;
+  border-radius: 24px;
+}
+.covid h2 {
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 57.98px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+}
+.covid p {
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+}
+.covid h3 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 18px;
+  letter-spacing: 1.600000023841858px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+}
+
+.hero-connect {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+.heroConnet {
+  display: flex;
+  align-items: center;
+}
+.heroConnetP {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 1.600000023841858px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  /* color: #6e7191; */
+}
+.covid a {
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #fff;
+}
